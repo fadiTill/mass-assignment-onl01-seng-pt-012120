@@ -7,7 +7,7 @@ attr_accessor :name, :birthday, :hair_color, :eye_color, :heigh
     @birthday = :birthday
     @hair_color = :hair_color
     @eye_color = :eye_color
-    @heigh = :height
+    @height = :height
   #your code here
 end
 end
