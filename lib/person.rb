@@ -10,3 +10,4 @@ attr_accessor :name, :birthday, :hair_color, :eye_color, :heigh
     @heigh = heigh
   #your code here
 end
+end
