@@ -8,4 +8,4 @@ attr_accessor :name, :birthday, :hair_color, :eye_color, :heigh
     end
   end
 end
-end
+
